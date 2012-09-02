@@ -9,7 +9,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.loessl.SpotifyURL</string>
 	<key>CFBundleInfoDictionaryVersion</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>CFBundleName</key>
 	<string>SpotifyURL</string>
 	<key>CFBundlePackageType</key>
