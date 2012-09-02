@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Spotify URL</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.loessl.SpotifyURL</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>CFBundleName</key>
+	<string>SpotifyURL</string>
+	<key>CFBundlePackageType</key>
+	<string>AdIM</string>
+	<key>Scripts</key>
+	<array>
+		<dict>
+			<key>File</key>
+			<string>currentSongURL</string>
+			<key>Keyword</key>
+			<string>%_spotify_URL</string>
+			<key>Title</key>
+			<string>URL to current Spotify song</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>currentSongURL</string>
+			<key>Keyword</key>
+			<string>%surl</string>
+			<key>Title</key>
+			<string>URL to current Spotify song</string>
+		</dict>
+	</array>
+	<key>Set</key>
+	<string>Spotify</string>
+</dict>
+</plist>
