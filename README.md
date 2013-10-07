@@ -13,7 +13,8 @@ Just type '%surl' or '%_spotify_URL' in the chat window and the string will be s
 Example
 -------
 
-I am listening to %surl
+If you type
+`I am listening to %surl` into Adiums chat box it turns into `I am listening to Icona Pop - I Love It | http://open.spotify.com/track/6Ou08NE0N5z8eRL1siDtAK`.
 
 
 Installation
